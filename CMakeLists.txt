@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( masterp )
+find_package( OpenCV REQUIRED )
+add_executable( masterp masterp.cpp )
+target_link_libraries( masterp ${OpenCV_LIBS} )

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/CHANDU/Desktop/masterp/handgesture.hpp
+
+/Users/CHANDU/Desktop/masterp/masterp.cpp
+opencv2/imgproc/imgproc.hpp
+-
+opencv2/opencv.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+string
+-
+vector
+-
+opencv2/photo/photo.hpp
+/Users/CHANDU/Desktop/masterp/opencv2/photo/photo.hpp
+opencv2/video/video.hpp
+/Users/CHANDU/Desktop/masterp/opencv2/video/video.hpp
+opencv2/features2d/features2d.hpp
+/Users/CHANDU/Desktop/masterp/opencv2/features2d/features2d.hpp
+opencv2/objdetect/objdetect.hpp
+/Users/CHANDU/Desktop/masterp/opencv2/objdetect/objdetect.hpp
+opencv2/calib3d/calib3d.hpp
+/Users/CHANDU/Desktop/masterp/opencv2/calib3d/calib3d.hpp
+opencv2/ml/ml.hpp
+/Users/CHANDU/Desktop/masterp/opencv2/ml/ml.hpp
+unistd.h
+-
+fstream
+-
+handgesture.hpp
+/Users/CHANDU/Desktop/masterp/handgesture.hpp
+
